@@ -1,0 +1,7 @@
+{
+  "type": "anvil_crushing_recipes:anvil_crushing",
+  "block_ingredient": {
+    "block": "easier_gunpowder:charcoal_block"
+  },
+  "block_output": "easier_gunpowder:charcoal_block_cracked"
+}

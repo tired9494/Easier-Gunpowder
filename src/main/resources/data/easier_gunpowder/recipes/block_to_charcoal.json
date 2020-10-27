@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C"
+  ],
+  "key": {
+    "C": {
+      "item": "easier_gunpowder:charcoal_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:charcoal",
+    "count": 9
+  }
+}
+
