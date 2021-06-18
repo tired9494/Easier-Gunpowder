@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "github.tired9494.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MillCakeMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
